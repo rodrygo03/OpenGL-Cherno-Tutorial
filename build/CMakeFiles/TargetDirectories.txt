@@ -1,0 +1,3 @@
+/home/woody_oro/OpenGL/build/CMakeFiles/openGL_vbuffers.dir
+/home/woody_oro/OpenGL/build/CMakeFiles/edit_cache.dir
+/home/woody_oro/OpenGL/build/CMakeFiles/rebuild_cache.dir
