@@ -3,6 +3,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/openGL_vbuffers.dir/src/IndexBuffer.cpp.o.d"
   "CMakeFiles/openGL_vbuffers.dir/src/Renderer.cpp.o"
   "CMakeFiles/openGL_vbuffers.dir/src/Renderer.cpp.o.d"
+  "CMakeFiles/openGL_vbuffers.dir/src/VertexArray.cpp.o"
+  "CMakeFiles/openGL_vbuffers.dir/src/VertexArray.cpp.o.d"
   "CMakeFiles/openGL_vbuffers.dir/src/VertexBuffer.cpp.o"
   "CMakeFiles/openGL_vbuffers.dir/src/VertexBuffer.cpp.o.d"
   "CMakeFiles/openGL_vbuffers.dir/src/main.cpp.o"

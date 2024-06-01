@@ -10,6 +10,8 @@ set(SOURCE_FILES
     src/Renderer.cpp
     src/IndexBuffer.cpp
     src/VertexBuffer.cpp
+    src/VertexArray.cpp
+    src/VertexBufferLayout.h
 )
 
 add_executable(openGL_vbuffers ${SOURCE_FILES} src/main.cpp)

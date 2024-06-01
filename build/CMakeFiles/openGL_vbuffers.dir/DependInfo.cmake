@@ -10,6 +10,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/woody_oro/OpenGL/src/IndexBuffer.cpp" "CMakeFiles/openGL_vbuffers.dir/src/IndexBuffer.cpp.o" "gcc" "CMakeFiles/openGL_vbuffers.dir/src/IndexBuffer.cpp.o.d"
   "/home/woody_oro/OpenGL/src/Renderer.cpp" "CMakeFiles/openGL_vbuffers.dir/src/Renderer.cpp.o" "gcc" "CMakeFiles/openGL_vbuffers.dir/src/Renderer.cpp.o.d"
+  "/home/woody_oro/OpenGL/src/VertexArray.cpp" "CMakeFiles/openGL_vbuffers.dir/src/VertexArray.cpp.o" "gcc" "CMakeFiles/openGL_vbuffers.dir/src/VertexArray.cpp.o.d"
   "/home/woody_oro/OpenGL/src/VertexBuffer.cpp" "CMakeFiles/openGL_vbuffers.dir/src/VertexBuffer.cpp.o" "gcc" "CMakeFiles/openGL_vbuffers.dir/src/VertexBuffer.cpp.o.d"
   "/home/woody_oro/OpenGL/src/main.cpp" "CMakeFiles/openGL_vbuffers.dir/src/main.cpp.o" "gcc" "CMakeFiles/openGL_vbuffers.dir/src/main.cpp.o.d"
   )
