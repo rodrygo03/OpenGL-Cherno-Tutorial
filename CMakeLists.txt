@@ -12,6 +12,7 @@ set(SOURCE_FILES
     src/VertexBuffer.cpp
     src/VertexArray.cpp
     src/VertexBufferLayout.h
+    src/Shader.cpp
 )
 
 add_executable(openGL ${SOURCE_FILES} src/main.cpp)
