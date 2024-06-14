@@ -18,12 +18,10 @@ Shader::~Shader()
     GLCall(glDeleteProgram(m_RendererID));
 }
 
-
-
 ShaderProgramSource Shader::ParseShader(const std::string& filepath)
 {
     std::ifstream stream(filepath);
-
+ 
     enum class ShaderType
     {
         NONE = -1, VERTEX = 0, FRAGMENT = 1
@@ -50,7 +48,6 @@ ShaderProgramSource Shader::ParseShader(const std::string& filepath)
             ss[(int)type] << line << '\n';
         }
     }
-
     return {ss[0].str(), ss[1].str()};
 }
 

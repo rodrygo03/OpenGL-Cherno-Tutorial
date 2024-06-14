@@ -4,7 +4,7 @@ cmake_policy(SET CMP0072 NEW)
 
 find_package(OpenGL REQUIRED)
 
-add_definitions(-DGLEW_STATIC) # glew preprocessor definition (may not be nessecary)
+add_definitions(-DGLEW_STATIC) 
 
 set(SOURCE_FILES 
     src/Renderer.cpp
