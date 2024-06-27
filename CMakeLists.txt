@@ -13,6 +13,8 @@ set(SOURCE_FILES
     src/VertexArray.cpp
     src/VertexBufferLayout.h
     src/Shader.cpp
+    src/vendor/stb_image/stb_image.cpp
+    src/Texture.cpp
 )
 
 add_executable(openGL ${SOURCE_FILES} src/main.cpp)
